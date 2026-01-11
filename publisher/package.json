@@ -1,0 +1,14 @@
+{
+  "name": "publisher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "kafkajs": "^2.2.4",
+    "morgan": "^1.10.0"
+  }
+}
